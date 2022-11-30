@@ -1,0 +1,1 @@
+This folder contains three monthly mean fields from the NCAR Reanalysis 2, including the mean sea-level pressure, 2-meter air temperature, and precipitation rate. Each field is defined on a $2.5^{o}$ x $2.5^{o}$ grid resolution.    
